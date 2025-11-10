@@ -13,6 +13,11 @@
     ],
     "rootDir": "src"
   },
+  "references": [
+    {
+      "path": "../../packages/ui/tsconfig.lib.json"
+    }
+  ],
   "exclude": [
     "out-tsc",
     "dist",
